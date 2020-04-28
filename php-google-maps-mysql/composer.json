@@ -1,0 +1,10 @@
+{
+    "name": "david/php-google-maps",
+    "description": "Ejemplo PHP+Google+MySQL",
+    "require": {},
+    "autoload": {
+        "psr-4":{
+            "classes\\": "classes/"
+        }
+    }
+}
