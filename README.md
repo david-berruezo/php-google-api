@@ -8,5 +8,5 @@ In these section I show you several examples about to use google api in php.
 ![Screenshot](/php-google-maps-mysql/data.gif)<br>
 
 ## 02.- PHP + Google books (oauth) + Queries + viewer Book
-![Screenshot](/php-google-books/imagen1.gif)<br>
+![Screenshot](/php-google-books/image1.gif)<br>
 
